@@ -1,0 +1,2 @@
+# Automatic Market Tracking Algorithm
+An automated, cross-platform quantitative data pipeline designed to ingest, sanitize, and chronologically sequence multi-asset financial metrics (Nifty 50, India VIX, Bitcoin) into a high-fidelity time-series database.  This project serves as an independent quantitative research infrastructure, pairing algorithmic data collection with disciplined macroeconomic analysis.
